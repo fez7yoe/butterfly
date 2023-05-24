@@ -1,0 +1,1 @@
+document.getElementById("page-name").innerText = document.title.split(" | 小被被好好摸")[0];
