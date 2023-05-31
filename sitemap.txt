@@ -1,7 +1,7 @@
-https://fez7yoe-butterfly.netlify.app/tags/index.html
-https://fez7yoe-butterfly.netlify.app/categories/index.html
 https://fez7yoe-butterfly.netlify.app/posts/4a17b156/
 https://fez7yoe-butterfly.netlify.app/posts/6f9940a6/
+https://fez7yoe-butterfly.netlify.app/tags/index.html
+https://fez7yoe-butterfly.netlify.app/categories/index.html
 https://fez7yoe-butterfly.netlify.app/
 https://fez7yoe-butterfly.netlify.app/tags/customized/
 https://fez7yoe-butterfly.netlify.app/categories/notes/
